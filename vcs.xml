@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/mayursp/1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mayursp/ANNP_PROJECT_ANDROID.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\AESICS\MCA\Network\ANNP_PROJECT_ANDROID_28319" />
+    <option name="cloneParentDir" value="E:\AESICS\MCA" />
   </component>
 </application>
